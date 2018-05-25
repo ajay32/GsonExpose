@@ -1,0 +1,9 @@
+{
+  "address": {
+    "cityx": "Delhi",
+    "countryx": "India"
+  },
+  "age": "29",
+  "name": "Pinku",
+  "rollno": "447"
+}  /* now we got object inside object  */
